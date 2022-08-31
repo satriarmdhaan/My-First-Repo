@@ -4,4 +4,4 @@ NPM   : 2106751695
 
 Kelas : D
 
-Hobi  : Ngoding
+Hobi  : Bermain
